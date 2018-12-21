@@ -4,9 +4,9 @@
 使用命令
 
 
-##下载中文插件包
+## 下载中文插件包
 curl -L "https://github.com/yuanls/doc/releases/download/docker-env/sonar-l10n-zh-plugin-1.16.jar"
-##启动容器
+## 启动容器
 curl -L "https://github.com/yuanls/doc/releases/download/docker-env/docker-compose-sonarqube.yml" -o docker-compose.yml && docker-compose up
-##访问
+## 访问
 http://ip:9000
